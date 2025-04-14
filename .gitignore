@@ -12,3 +12,8 @@ site/
 
 # cache
 .cache/
+
+# mac folder metadata
+.DS_Store
+
+logs/
